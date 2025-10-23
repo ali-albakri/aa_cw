@@ -12,5 +12,10 @@
 | |   / _ \| | | | '__/ __|/ _ \ \ /\ / / _ \| '__| |/ /
 | |__| (_) | |_| | |  \__ \  __/\ V  V / (_) | |  |   < 
  \____\___/ \__,_|_|  |___/\___| \_/\_/ \___/|_|  |_|\_\
+
+
+Task 1 - Bubble, Selection, and Insertion Sort performance with Reverse, Sorted, and Random arrays.
+
+Task 2- Restricted Tower of Hanoi Algorithm
   
 </pre>
