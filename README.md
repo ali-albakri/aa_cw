@@ -16,10 +16,12 @@
 
 Task 1 - Bubble, Selection, and Insertion Sort performance with Reverse, Sorted, and Random arrays.
 
-Task 2- Restricted Tower of Hanoi Algorithm
+Task 2 - Restricted Tower of Hanoi Algorithm
 
 Task 3 - Word Autocomplete Search using AVL Trees + dictionary.txt
 
 Task 4 - Anagram Checker
-  
+
+Task 5 - Alternating Disks (Sorting)
+    
 </pre>
