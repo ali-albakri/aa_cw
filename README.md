@@ -23,5 +23,7 @@ Task 3 - Word Autocomplete Search using AVL Trees + dictionary.txt
 Task 4 - Anagram Checker
 
 Task 5 - Alternating Disks (Sorting)
+
+Task 6 - O(1) & O(N) Fake Coin Two-Pan Balance Finder
     
 </pre>
