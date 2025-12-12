@@ -25,5 +25,7 @@ Task 4 - Anagram Checker
 Task 5 - Alternating Disks (Sorting)
 
 Task 6 - O(1) & O(N) Fake Coin Two-Pan Balance Finder
+
+Task 7 - Greedy vs Dynamic Programming Knapsack Algorithm (Shop Optimizer)
     
 </pre>
