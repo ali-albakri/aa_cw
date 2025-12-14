@@ -14,6 +14,8 @@
  \____\___/ \__,_|_|  |___/\___| \_/\_/ \___/|_|  |_|\_\
 
 
+8 Total Tasks Completed!
+
 Task 1 - Bubble, Selection, and Insertion Sort performance with Reverse, Sorted, and Random arrays.
 
 Task 2 - Restricted Tower of Hanoi Algorithm
@@ -27,5 +29,7 @@ Task 5 - Alternating Disks (Sorting)
 Task 6 - O(1) & O(N) Fake Coin Two-Pan Balance Finder
 
 Task 7 - Greedy vs Dynamic Programming Knapsack Algorithm (Shop Optimizer)
-    
+
+Task 8 - A* Ball Sort Puzzle Solver
+
 </pre>
